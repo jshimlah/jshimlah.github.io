@@ -7,5 +7,5 @@ permalink: /blogs/
 ---
 Hello this is my blog. I'll be talking about my stuff.
 
-- [post1](/post1.html)
-- [post2](/post2.html)
+- [post1](https://jshimlah.github.io/post1.html)
+- [post2](https://jshimlah.github.io/post2.html)
