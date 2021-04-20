@@ -4,12 +4,8 @@ title: Jaehyun's page
 tagline: Sophomore at the University of Michigan
 description: Jaehyun's github page for EECS201
 ---
-<button name="button" onclick="https://jshimlah.github.io/blogs/">blogs</button> <button name="button" onclick="https://jshimlah.github.io/home/">Home</button> <button name="button" onclick="https://www.google.com">Google</button>
-Hello there! Welcome to my page!
-
 My name is Jaehyun Shim, and I'm a sophomore at the University of Michigan, majoring in Computer Science and minoring in Mathematics.
 
 I love coding.
 
 For this summer, I'll be interning at Ansys. I am always looking for more opportunities and love learning new stuff!
-
