@@ -1,8 +1,8 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Blogs
+tagline: Stuff that's going on in my life
+description: casual blogs
 permalink: /blogs/
 ---
 Hello this is my blog. I'll be talking about my stuff.
