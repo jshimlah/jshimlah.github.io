@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testing your site locally
+title: Home
 description: How to test your GitHub Pages site locally.
 ---
 
@@ -8,6 +8,10 @@ To test your site locally, you'll need
 
 - [ruby](https://www.ruby-lang.org/en/)
 - the [github-pages](https://github.com/github/pages-gem) gem
+
+Lorem ipsum dolor sit amet.
+
+<button name="button" onclick="https://www.google.com">Click me</button>
 
 ### Installing ruby
 
