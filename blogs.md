@@ -3,6 +3,7 @@ layout: page
 title: simple site
 tagline: Easy websites with GitHub Pages
 description: Minimal tutorial on making a simple website with GitHub Pages
+permalink: /blogs/
 ---
 <button name="button" onclick="https://jshimlah.github.io/blogs/">blogs</button> <button name="button" onclick="https://www.google.com">Click me</button> <button name="button" onclick="https://www.google.com">Click me</button>
 [Github Pages](https://pages.github.com) provide a simple way to make a
